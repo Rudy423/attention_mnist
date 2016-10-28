@@ -1,5 +1,5 @@
 # attention_mnist
-An implementation of attention based RNN for MNIST data
+A tensorflow demo of attention based RNN for MNIST data
 
 
 
